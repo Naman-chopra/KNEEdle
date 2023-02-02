@@ -10,7 +10,7 @@ The input video file `input.mp4` is located in the parent directory.
 
 
 ## Output Video
-The output video file `output_10_reps.mp4` is located in the parent directory and contains the results of the analysis.
+The output video file `untitled.mp4` is located in the parent directory and contains the results of the analysis.
 
 ## Instructions
 Instructions on how to run the analysis are located in the `instructions.txt` file in the parent directory.
