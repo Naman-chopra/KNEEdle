@@ -25,9 +25,11 @@ The timer starts as soon as the user bends their knee (at an angle <140), with a
 
 
 The stat of bendiness is determined by how far a user can bend their legs. For example, if a user can bend their legs to an angle of 80 degrees, the stat is considered to be "Good". If the user doesn't bend their knee more than 120 degrees, the stat is unsatisfactory.
+<p float="left">
+  <img src="/assets/thirdimage.png" width="500"/>
+  <img src="/assets/fifth.png" width="500"/>
+</p>
 
-![Third Image](/assets/thirdimage.png)
-![Fifth Image](/assets/fifth.png)
 
 If the angle is measured to be less than 30 due to a visibility issue, the warning "poor visibility" is displayed. The alert "sudden change" is displayed if there is less than 1.5 seconds between two successive states (such as bent or straight) in order to control fluctuations.
 
