@@ -17,10 +17,12 @@ Instructions on how to run the analysis are located in the `instructions.txt` fi
 
 ## Analysis
 The timer starts as soon as the user bends their knee (at an angle <140), with a buffer of 1 extra second to avoid any accidental knee bend recognition. The user is advised to "keep your knee bent" and the timer restarts to 8 seconds if they straighten their leg before that point.
+<p float="left">
+  <img src="firstimage.png" width="100"/>
+  <img src="secondimage.png" width="100"/>
+</p>
 
-![First Image](/assets/firstimage.png)
 
-![Second Image](/assets/secondimage.png)
 
 The stat of bendiness is determined by how far a user can bend their legs. For example, if a user can bend their legs to an angle of 80 degrees, the stat is considered to be "Good". If the user doesn't bend their knee more than 120 degrees, the stat is unsatisfactory.
 
