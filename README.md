@@ -29,8 +29,8 @@ The timer starts as soon as the user bends their knee (at an angle <140), with a
 
 The stat of bendiness is determined by how far a user can bend their legs. For example, if a user can bend their legs to an angle of 80 degrees, the stat is considered to be `Good`. If the user doesn't bend their knee more than 120 degrees, the stat is unsatisfactory.
 <p float="left">
-  <img src="/assets/thirdimage.png" width="350"/>
-  <img src="/assets/fifth.png" width="350"/>
+  <img src="/assets/thirdimage.png" width="400"/>
+  <img src="/assets/fifth.png" width="400"/>
 </p>
 
 
