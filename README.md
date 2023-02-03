@@ -21,8 +21,8 @@ Instructions on how to run the analysis are located in the `instructions.txt` fi
 ## Analysis
 The timer starts as soon as the user bends their knee (at an angle <140), with a buffer of 1 extra second to avoid any accidental knee bend recognition. The user is advised to "keep your knee bent" and the timer restarts to 8 seconds if they straighten their leg before that point.
 <p float="left">
-  <img src="/assets/firstimage.png" width="500"/>
-  <img src="/assets/secondimage.png" width="500"/>
+  <img src="/assets/firstimage.png" width="100"/>
+  <img src="/assets/secondimage.png" width="100"/>
 </p>
 
 
