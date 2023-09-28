@@ -16,7 +16,7 @@ The input video file `input.mp4` is located in the parent directory.
 The output video file `untitled.mp4` is located in the parent directory and contains the results of the analysis.
 
 ## Instructions
-Instructions on how to run the analysis are located in the `instructions.txt` file in the parent directory.
+Instructions on how to run the analysis are located in the [instructions.txt](/instructions.txt) file in the parent directory.
 
 ## Analysis
 The timer starts as soon as the user bends their knee (at an angle <140), with a buffer of 1 extra second to avoid any accidental knee bend recognition. The user is advised to "keep your knee bent" and the timer restarts to 8 seconds if they straighten their leg before that point.
